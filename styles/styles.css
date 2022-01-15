@@ -1,15 +1,7 @@
-/*
-* Prefixed by https://autoprefixer.github.io
-* PostCSS: v7.0.29,
-* Autoprefixer: v9.7.6
-* Browsers: last 4 version
-*/
-
 @font-face {
   font-family: "Noto Sans";
   src: local("Noto Sans Display Regular"), local("NotoSansDisplay-Regular"),
-    url("../fonts/Notosansdisplayregular.woff2") format("woff2"),
-    url("../fonts/Notosansdisplayregular.woff") format("woff");
+    url("../fonts/Notosansdisplayregular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
 }
@@ -17,8 +9,7 @@
 @font-face {
   font-family: "Noto Sans";
   src: local("Noto Sans Display Italic"), local("NotoSansDisplay-Italic"),
-    url("../fonts/Notosansdisplayitalic.woff2") format("woff2"),
-    url("../fonts/Notosansdisplayitalic.woff") format("woff");
+    url("../fonts/Notosansdisplayitalic.woff2") format("woff2");
   font-weight: 400;
   font-style: italic;
 }
@@ -26,8 +17,7 @@
 @font-face {
   font-family: "Noto Sans";
   src: local("Noto Sans Display Bold"), local("NotoSansDisplay-Bold"),
-    url("../fonts/Notosansdisplaybold.woff2") format("woff2"),
-    url("../fonts/Notosansdisplaybold.woff") format("woff");
+    url("../fonts/Notosansdisplaybold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
 }
@@ -36,8 +26,7 @@
   font-family: "Noto Sans";
   src: local("Noto Sans Display Bold Italic"),
     local("NotoSansDisplay-BoldItalic"),
-    url("../fonts/Notosansdisplaybolditalic.woff2") format("woff2"),
-    url("../fonts/Notosansdisplaybolditalic.woff") format("woff");
+    url("../fonts/Notosansdisplaybolditalic.woff2") format("woff2");
   font-weight: 700;
   font-style: italic;
 }
