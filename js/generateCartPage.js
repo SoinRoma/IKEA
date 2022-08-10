@@ -90,10 +90,7 @@ const generateCartPage = () => {
               <div class="product__controls">
                 <div class="product-controls__remove">
                   <button type="button" class="btn btn-remove" data-idd=${id}>
-                    <img
-                      src="image/remove-thin-24.16c1cc7a.svg"
-                      alt="Удалить товар"
-                    />
+                    <img src="./images/remove.svg" alt="Удалить товар" />
                   </button>
                 </div>
                 <div class="product-controls__quantity">

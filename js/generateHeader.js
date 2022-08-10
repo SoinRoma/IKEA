@@ -21,7 +21,7 @@ const generateHeader = () => {
             </svg>
           </button>
           <a href="index.html" class="logo">
-            <img src="image/ikea-logo.svg" alt="Логотип" />
+            <img src="./images/ikea-logo.svg" alt="Логотип" />
           </a>
           <form class="search" method="get" action="goods.html">
             <input
